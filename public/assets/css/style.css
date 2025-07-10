@@ -1,0 +1,8 @@
+body { font-family: Arial, sans-serif; margin: 0; background: #f7f7fa; }
+header { background: #222; color: #fff; padding: 1em; display: flex; align-items: center; gap: 1em; }
+#graph-container { float: left; width: 75%; }
+#domain-details { float: right; width: 23%; background: #fff; border-left: 1px solid #eee; min-height: 800px; padding: 1em; box-sizing: border-box; }
+main { display: flex; }
+#graph { background: #fff; border: 1px solid #ddd; }
+input[type="text"] { padding: 0.5em; font-size: 1em; }
+button { padding: 0.5em 1em; font-size: 1em; } 
